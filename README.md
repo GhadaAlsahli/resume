@@ -20,5 +20,5 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 
 king Saud University 
 
-Last updated: June 2022 -->
+
 
